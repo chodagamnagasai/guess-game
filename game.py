@@ -1,6 +1,7 @@
 import random
 
-words = ("pilot","aeroplane","bike","sneeze","guess","door","wind","helmet","vase","pot")
+words = ("acid","ball","bake","cake","coin","dark","date","earn","ears","face","fake","fact","fear","fart","fast","fair","fail","gang
+,"hall","icon","idle","jaws","jeep","lace","laid","lake","lamb","lame","lamp","land","made","maze","maid","mail","make","male","mall","many","milk","name")
 word = random.choice(words)
 guess_word = ""
 guess = 0
