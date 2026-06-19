@@ -4,7 +4,7 @@ words = ("acid","ball","bake","cake","coin","dark","date","earn","ears","face","
 word = random.choice(words)
 guess_word = ""
 guess = 0
-guess_limit = 10
+guess_limit = 12
 out_of_guesses = False
 while not(out_of_guesses) and guess_word != word:
     if guess < guess_limit:
