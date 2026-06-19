@@ -1,6 +1,6 @@
 import random
 
-words = ("acid","ball","bake","cake","coin","dark","date","earn","ears","face","fake","fact","fear","fart","fast","fair","fail","gang","hall","icon","idle","jaws","jeep","lace","laid","lake","lamb","lame","lamp","land","made","maze","maid","mail","make","male","mall","many","milk","name","nail","nose","nike","nine","open","okay","pain","pace","play","pick","plot","rest","rain")
+words = ("acid","ball","bake","cake","coin","dark","date","earn","ears","face","fake","fact","fear","fart","fast","fair","fail","gang","hall","icon","idle","jaws","jeep","lace","laid","lake","lamb","lame","lamp","land","made","maze","maid","mail","make","male","mall","many","milk","name","nail","nose","nike","nine","open","okay","pain","pace","play","pick","plot","rest","rain","rail")
 word = random.choice(words)
 guess_word = ""
 guess = 0
