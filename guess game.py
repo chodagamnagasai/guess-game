@@ -29,5 +29,5 @@ while not(out_of_guesses) and guess_word != word:
 if out_of_guesses:
     print("You have failed to guess the correct word!")
 else:
-    print("You have guessed correctly!")
+    print("You have guessed the word correctly!")
     print(f"Number of guesses are {guess}")
